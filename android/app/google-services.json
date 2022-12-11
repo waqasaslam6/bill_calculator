@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094912354291",
+    "project_id": "bill-calculator-38296",
+    "storage_bucket": "bill-calculator-38296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094912354291:android:4d020f677c6988674c9486",
+        "android_client_info": {
+          "package_name": "com.waqasapps.bill_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094912354291-2nacqk9mdokdb7366s7v1e7jeij4odns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASfGoVYaN8lsQyNMNRV4M6LXM5PZvMhqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094912354291-2nacqk9mdokdb7366s7v1e7jeij4odns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
