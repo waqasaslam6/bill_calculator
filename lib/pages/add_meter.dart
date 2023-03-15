@@ -116,10 +116,6 @@ class AddMeter extends StatelessWidget {
 
                 },
               ),
-             // Obx(()=> Text("Units Consumed till now : ${billController.totalUnitsConsumed.value}",
-             // style: const TextStyle(
-             //   fontSize: 20
-             // ),))
             ],
           ),
         ),
